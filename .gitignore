@@ -1,0 +1,20 @@
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# Secrets
+.env
+.env.*
+
+# Research data and generated outputs
+papers/
+research_db/
+reports/
+
+# Streamlit
+.streamlit/secrets.toml
+
+# Temporary files
+*.tmp
